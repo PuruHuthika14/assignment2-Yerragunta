@@ -19,6 +19,28 @@ Indian Hockey Team
 
 ![About Yerragunta_PuruHuthika](AboutMe.md)
 
+---
+
+# About Countries
+
+This table shows about the countries which are good for vacation
+
+|**Country _Name**|   **Reason**    |  **Days to Spend**|
+|     :---:       |      :---:      |      :---:        |
+|    Australia    | This Country is offering visitors a unique and beautifull experience.|60days|
+|  United Kingdom |   London is a well-liked tourist destination because of its huge range of museums, shops, restaurants.|90days|
+|    Finland      | This country is well known for vast forests and lakes and also called as safest country.|365days|
+|    France       |  France is one of the oldest nations on Earth and it is most  diverse country. in Europe |100days|
+
+
+---
+
+
+
+
+
+
+
 
 
 
