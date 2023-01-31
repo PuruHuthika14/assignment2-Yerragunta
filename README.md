@@ -35,6 +35,17 @@ This table shows about the countries which are good for vacation
 
 ---
 
+## Funny Quotes
+
+
+> If you’re going to be thinking, you may as well think big. -  *Donald Trump*
+
+> People say money is not the key to happiness,but I have always figured if you have enough money you can have a key made. - *JOAN RIVERS*
+
+
+
+
+
 
 
 
