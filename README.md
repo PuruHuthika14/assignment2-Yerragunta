@@ -42,6 +42,25 @@ This table shows about the countries which are good for vacation
 
 > People say money is not the key to happiness,but I have always figured if you have enough money you can have a key made. - *JOAN RIVERS*
 
+---
+
+### HTML Code Snippet
+
+> [HTML Stack Overflow](https://stackoverflow.com/questions/tagged/html)
+
+```
+
+<meta name="robots" content="noindex, nofollow">
+<!-- or -->
+<meta name="robots" content="none">
+<!-- or if you only care about Google... -->
+<meta name="googlebot" content="noindex, nofollow">
+
+```
+
+> [HTML Meta Tags ](https://css-tricks.com/snippets/html/meta-tags-for-instructing-search-bots/)
+
+
 
 
 
